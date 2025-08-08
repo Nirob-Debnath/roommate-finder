@@ -79,23 +79,6 @@ A web application that helps individuals find compatible roommates based on loca
 
 ---
 
-## 📂 Folder Structure
-
-RoommateFinder/
-├── client/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── routes/
-│ │ ├── context/
-│ │ └── hooks/
-├── server/
-│ ├── controllers/
-│ ├── models/
-│ └── routes/
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -114,5 +97,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developed By
 
-**Your Name**  
+**Nirob Debnath**  
 [GitHub](https://github.com/nirob-debnath) • [Email](mailto:nirobdebnath01@gmail.com)
